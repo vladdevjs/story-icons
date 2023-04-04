@@ -1,0 +1,1 @@
+body{background-color:#232323;color:#fff}.works{display:flex;flex-wrap:wrap;justify-content:center}.works__image{flex:1;min-width:100vw}@media only screen and (min-width:768px){.works__image{min-width:50%}}@media only screen and (min-width:1200px){.works__image{min-width:33.33%}}
