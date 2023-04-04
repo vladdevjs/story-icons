@@ -1,0 +1,13 @@
+# Recommended settings by Yandex
+.editorconfig
+
+# Prettier extension files
+.prettierignore
+.prettierrc
+
+#Dev build files
+node_modules
+.vscode
+
+#Final build
+dist
